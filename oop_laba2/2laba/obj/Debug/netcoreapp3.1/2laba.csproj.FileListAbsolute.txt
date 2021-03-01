@@ -1,0 +1,13 @@
+C:\Users\Juzete\source\repos\2laba\2laba\bin\Debug\netcoreapp3.1\2laba.exe
+C:\Users\Juzete\source\repos\2laba\2laba\bin\Debug\netcoreapp3.1\2laba.deps.json
+C:\Users\Juzete\source\repos\2laba\2laba\bin\Debug\netcoreapp3.1\2laba.runtimeconfig.json
+C:\Users\Juzete\source\repos\2laba\2laba\bin\Debug\netcoreapp3.1\2laba.runtimeconfig.dev.json
+C:\Users\Juzete\source\repos\2laba\2laba\bin\Debug\netcoreapp3.1\2laba.dll
+C:\Users\Juzete\source\repos\2laba\2laba\bin\Debug\netcoreapp3.1\2laba.pdb
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.csprojAssemblyReference.cache
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.AssemblyInfoInputs.cache
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.AssemblyInfo.cs
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.csproj.CoreCompileInputs.cache
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.dll
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.pdb
+C:\Users\Juzete\source\repos\2laba\2laba\obj\Debug\netcoreapp3.1\2laba.genruntimeconfig.cache
